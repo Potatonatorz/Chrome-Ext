@@ -1,4 +1,8 @@
-https://potatonatorz.github.io/Chrome-Ext/disable-youtube-previews.crx
-https://potatonatorz.github.io/Chrome-Ext/update.xml
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="your_extension_id_here">
+    <updatecheck
+      codebase="https://potatonatorz.github.io/Chrome-Ext/disable-youtube-previews.crx"
+      version="1.2.1" />
+  </app>
+</gupdate>
